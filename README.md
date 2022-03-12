@@ -1,2 +1,2 @@
-# egghead-courses
+# :egg:
 https://egghead.io/courses
